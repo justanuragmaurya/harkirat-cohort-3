@@ -8,3 +8,5 @@ function toBytes(string){
     return arr;
 }
 console.log(toBytes("Anurag"));
+
+// [65,110,117,114,97,103]p[3]
